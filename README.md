@@ -1,0 +1,5 @@
+# casino
+
+public class Casino
+{
+}
